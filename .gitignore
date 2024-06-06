@@ -138,3 +138,6 @@ data/data.dat
 *.out
 *.class
 
+# Ignore all backups
+*.bak
+
