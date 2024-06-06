@@ -103,4 +103,9 @@ __pypackages__/
 # Pyre type checker
 .pyre/
 
+# MyPy type checker
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
 
