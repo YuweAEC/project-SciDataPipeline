@@ -121,4 +121,9 @@ dmypy.json
 *.envrc
 *.local_env
 
+# Project-specific files
+data/data.dat
+
+# Ignore all log files
+*.log
 
