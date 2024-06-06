@@ -131,3 +131,10 @@ data/data.dat
 # Ignore all temporary files
 *.tmp
 
+# Ignore compiled files
+*.exe
+*.o
+*.a
+*.out
+*.class
+
