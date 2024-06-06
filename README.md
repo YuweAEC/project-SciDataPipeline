@@ -95,3 +95,14 @@ Guidelines for contributing to your project.
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new Pull Request.
+
+## License
+
+Include your project's license. For example, if you're using the MIT License:
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to customize the README file to better suit your project's specific details and requirements.
+
