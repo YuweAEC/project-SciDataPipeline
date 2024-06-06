@@ -146,3 +146,9 @@ data/data.dat
 .AppleDouble
 .LSOverride
 
+# Windows metadata files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
