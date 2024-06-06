@@ -72,3 +72,8 @@ Instructions for setting up the project on your local machine.
 
 Provide examples and instructions on how to use your project.
 
+```sh
+# Example command to run your main script
+python src/sourcecode.b
+```
+
