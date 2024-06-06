@@ -141,3 +141,8 @@ data/data.dat
 # Ignore all backups
 *.bak
 
+# macOS metadata files
+.DS_Store
+.AppleDouble
+.LSOverride
+
