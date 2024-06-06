@@ -115,4 +115,10 @@ dmypy.json
 # VSCode settings
 .vscode/
 
+# Local development artifacts
+*.local
+*.env
+*.envrc
+*.local_env
+
 
