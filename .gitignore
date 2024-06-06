@@ -127,3 +127,7 @@ data/data.dat
 # Ignore all log files
 *.log
 
+
+# Ignore all temporary files
+*.tmp
+
