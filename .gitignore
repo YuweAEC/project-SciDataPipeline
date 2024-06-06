@@ -108,4 +108,11 @@ __pypackages__/
 .dmypy.json
 dmypy.json
 
+# SQL database files
+*.db
+*.sqlite
+
+# VSCode settings
+.vscode/
+
 
