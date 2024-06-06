@@ -68,3 +68,7 @@ Instructions for setting up the project on your local machine.
     pip install -r requirements.txt
     ```
 
+## Usage
+
+Provide examples and instructions on how to use your project.
+
