@@ -152,3 +152,7 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
+# Temporary files created by editors
+*~ 
+*.swp
+*.swo
