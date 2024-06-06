@@ -45,3 +45,26 @@ Provide a detailed description of the project, including its purpose, functional
 - **README.md**: This file, providing an overview of the project.
 - **requirements.txt**: List of dependencies required for the project.
 - **setup.py**: Script for installing the project.
+
+## Installation
+
+Instructions for setting up the project on your local machine.
+
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/yourusername/yourproject.git
+    ```
+2. **Navigate to the project directory**:
+    ```sh
+    cd yourproject
+    ```
+3. **Create a virtual environment** (optional but recommended):
+    ```sh
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+4. **Install the required dependencies**:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
