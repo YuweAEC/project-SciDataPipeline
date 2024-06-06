@@ -89,3 +89,7 @@ doc/_build/
 # PyBuilder
 target/
 
+# Jupyter Notebook metadata
+**/.ipynb_checkpoints
+**/.ipynb_checkpoints/
+
