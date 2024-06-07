@@ -6,7 +6,7 @@ setup(
     description='A project for processing and analyzing scientific data.',
     author='Yuvraj Singh',
     author_email='rajbro34a@gmail.com',
-    url='https://github.com/yourusername/yourproject',
+    url='https://github.com/YuweAEC/project-SciDataPipeline',
     packages=find_packages(),
     install_requires=[
         'pandas',
