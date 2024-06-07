@@ -15,11 +15,13 @@ Data Collection: Data is collected from various environmental sensors and stored
 Data Processing: The data is cleaned, normalized, and integrated using scripts and notebooks.
 Simulation: Models are used to simulate environmental conditions based on the collected data.
 Analysis: Detailed analysis is performed to identify trends, anomalies, and insights.
+
 4. Tools and Technologies
 
 Python: Used for data processing, simulation, and analysis.
 Fortran: Utilized for specific simulation tasks that require high-performance computing.
 Jupyter Notebooks: Interactive environment for data exploration and visualization.
+
 5. File Descriptions
 
 base.dat: Reference environmental data file.
@@ -27,11 +29,13 @@ data.dat: Additional environmental data file with more parameters.
 code.ipynb: Jupyter notebook for running and visualizing the analysis.
 sourcecode.b: Main source code file for data processing.
 testing.s: Test scripts to validate the data and analysis methods.
+
 6. How to Use
 
 Setup: Follow the instructions in the README.md file to set up the project.
 Running Scripts: Use the provided scripts and notebooks to process and analyze the data.
 Customization: Modify the scripts and data files to suit specific needs or additional data sources.
+
 7. Conclusion
 
 This project provides a robust framework for processing and analyzing environmental data. It can be extended to include more data sources and advanced analysis techniques.
