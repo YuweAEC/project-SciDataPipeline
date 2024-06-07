@@ -13,6 +13,8 @@
 
 This project processes and analyzes scientific data from various datasets. It includes data processing scripts, simulation code, and analysis notebooks. The primary goal is to provide a robust framework for handling scientific data, running simulations, and visualizing results. The project is designed to be modular and easily extensible for future developments.
 
+For a detailed overview, see [PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md).
+
 ## Project Structure
 
 ```
