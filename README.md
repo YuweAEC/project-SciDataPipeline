@@ -1,5 +1,9 @@
-# NEW PROJECT
+# Scientific Data Processing and Analysis Project
 
+## Overview
+This project processes and analyzes scientific data from various datasets. It includes data processing scripts, simulation code, and analysis notebooks.
+
+## Project Structure
 
 ## Table of Contents
 
