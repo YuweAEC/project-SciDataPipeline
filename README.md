@@ -95,3 +95,11 @@ Run the main script to process the data:
 bash src/sourcecode.b
 ```
 
+### Running Fortran Simulation
+
+Compile and run the Fortran simulation:
+
+```sh
+bash src/csrc.b
+```
+
