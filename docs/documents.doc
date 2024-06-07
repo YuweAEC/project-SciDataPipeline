@@ -8,3 +8,23 @@ This project aims to process and analyze scientific data related to environmenta
 
 Base Data (base.dat): Contains foundational environmental data including temperature, humidity, and pressure.
 Additional Data (data.dat): Includes further environmental data with additional parameters like wind speed and solar radiation.
+
+3. Methodology
+
+Data Collection: Data is collected from various environmental sensors and stored in structured formats.
+Data Processing: The data is cleaned, normalized, and integrated using scripts and notebooks.
+Simulation: Models are used to simulate environmental conditions based on the collected data.
+Analysis: Detailed analysis is performed to identify trends, anomalies, and insights.
+4. Tools and Technologies
+
+Python: Used for data processing, simulation, and analysis.
+Fortran: Utilized for specific simulation tasks that require high-performance computing.
+Jupyter Notebooks: Interactive environment for data exploration and visualization.
+5. File Descriptions
+
+base.dat: Reference environmental data file.
+data.dat: Additional environmental data file with more parameters.
+code.ipynb: Jupyter notebook for running and visualizing the analysis.
+sourcecode.b: Main source code file for data processing.
+testing.s: Test scripts to validate the data and analysis methods.
+6. How to Use
