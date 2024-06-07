@@ -1,12 +1,11 @@
-
 from setuptools import setup, find_packages
 
 setup(
     name='ScientificDataProcessing',
     version='0.1.0',
     description='A project for processing and analyzing scientific data.',
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Yuvraj Singh',
+    author_email='rajbro34a@gmail.com',
     url='https://github.com/yourusername/yourproject',
     packages=find_packages(),
     install_requires=[
