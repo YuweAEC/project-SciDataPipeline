@@ -28,3 +28,10 @@ code.ipynb: Jupyter notebook for running and visualizing the analysis.
 sourcecode.b: Main source code file for data processing.
 testing.s: Test scripts to validate the data and analysis methods.
 6. How to Use
+
+Setup: Follow the instructions in the README.md file to set up the project.
+Running Scripts: Use the provided scripts and notebooks to process and analyze the data.
+Customization: Modify the scripts and data files to suit specific needs or additional data sources.
+7. Conclusion
+
+This project provides a robust framework for processing and analyzing environmental data. It can be extended to include more data sources and advanced analysis techniques.
