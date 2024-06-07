@@ -83,3 +83,15 @@ Follow these instructions to set up the project on your local machine:
     pip install -r requirements.txt
     ```
 
+## Usage
+
+Here are some examples and instructions on how to use the project.
+
+### Processing Data
+
+Run the main script to process the data:
+
+```sh
+bash src/sourcecode.b
+```
+
