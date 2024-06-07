@@ -103,3 +103,11 @@ Compile and run the Fortran simulation:
 bash src/csrc.b
 ```
 
+### Running Jupyter Notebooks
+
+To analyze the data using Jupyter Notebooks, run:
+
+```sh
+jupyter notebook notebooks/code.ipynb
+```
+
