@@ -39,3 +39,25 @@ This project processes and analyzes scientific data from various datasets. It in
 ├── setup.py
 ```
 
+- **data**: Contains data files required for the project.
+  - `base.dat`: An additional data file for base values.
+  - `data.dat`: The main data file.
+- **docs**: Contains documentation files.
+  - `documents.doc`: Detailed project documentation.
+  - `newdocs.doc`: Additional documentation.
+- **notebooks**: Contains Jupyter notebooks for exploration and analysis.
+  - `code.ipynb`: Main notebook for running the code.
+  - `new.ipynb`: Additional notebook for further analysis.
+- **src**: Contains the source code of the project.
+  - `csrc.b`: Bash script to compile and run Fortran code.
+  - `hello.f`: Fortran source code for simulations.
+  - `sourcecode.b`: Main script for data processing.
+- **test**: Contains tests for the project.
+  - `testing.s`: Test script for data processing.
+  - `tests.s`: Additional test script.
+- **.gitignore**: Specifies files and directories to be ignored by git.
+- **LICENSE**: License for the project.
+- **README.md**: This file, providing an overview of the project.
+- **requirements.txt**: List of dependencies required for the project.
+- **setup.py**: Script for installing the project.
+
