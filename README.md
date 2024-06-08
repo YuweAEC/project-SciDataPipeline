@@ -41,6 +41,8 @@ For a detailed overview, see [PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md).
 ├── setup.py
 ```
 
+- **assets**: Contains image assets for the project.
+  - `readme_image.png`: An example image used in the README.
 - **data**: Contains data files required for the project.
   - `base.dat`: An additional data file for base values.
   - `data.dat`: The main data file.
