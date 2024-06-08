@@ -1,3 +1,6 @@
+![README Image](assets/readme_image.png)
+
+
 # Scientific Data Processing and Analysis Project
 
 ## Table of Contents
