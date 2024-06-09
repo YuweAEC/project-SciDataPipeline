@@ -11,7 +11,7 @@
 
 ## Overview
 
-This project processes and analyzes scientific data from various datasets. It includes data processing scripts, simulation code, and analysis notebooks. The primary goal is to provide a robust framework for handling scientific data, running simulations, and visualizing results. The project is designed to be modular and easily extensible for future developments.
+This project processes and analyzes scientific data from various datasets. It includes data processing scripts, simulation code, and analysis notebooks. The primary goal is to provide a robust framework for  handling scientific data, running simulations, and visualizing results. The project is designed to be modular and easily extensible for future developments.
 
 For a detailed overview, see [PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md).
 
@@ -49,7 +49,7 @@ For a detailed overview, see [PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md).
 - **docs**: Contains documentation files.
   - `documents.doc`: Detailed project documentation.
   - `newdocs.doc`: Additional documentation.
-- **notebooks**: Contains Jupyter notebooks for exploration and analysis.
+- **notebooks**: Contains Jupyter notebooks for exploration and analysis. 
   - `code.ipynb`: Main notebook for running the code.
   - `new.ipynb`: Additional notebook for further analysis.
 - **src**: Contains the source code of the project.
